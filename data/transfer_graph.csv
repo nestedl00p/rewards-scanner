@@ -1,0 +1,52 @@
+Source Program,Source Currency,Partner Program,Partner Type,Transfer Ratio (Source → Partner),Min Transfer (Points),Transfer Speed,Transfer Speed (Detail),Bonus Promos (Current),Eligibility Notes,Card Required?,Online Transfer?,Instant Reverse?,CPP Estimate (¢),Source URL
+AmEx Membership Rewards,MR Points,Air Canada Aeroplan,Airline,1:1,"1,000",Fast,Within 24 hrs,Check amex.com,All MR-earning cards,Yes,Yes,No,1.5–2.5¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,ANA Mileage Club,Airline,1:1,"1,000",Standard,3–5 business days,Check amex.com,All MR-earning cards,Yes,Yes,No,1.5–3.0¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,British Airways Avios,Airline,1:1,"1,000",Fast,Within 24 hrs,Check amex.com,All MR-earning cards,Yes,Yes,No,1.0–1.8¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,Delta SkyMiles,Airline,1:1,"1,000",Instant,Instant–1 hr,Check amex.com,All MR-earning cards,Yes,Yes,No,1.0–1.5¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,Emirates Skywards,Airline,1:1,"1,000",Standard,24–48 hrs,Check amex.com,All MR-earning cards,Yes,Yes,No,1.5–2.5¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,Etihad Guest,Airline,1:1,"1,000",Standard,24–48 hrs,Check amex.com,All MR-earning cards,Yes,Yes,No,1.2–2.0¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,Flying Blue (Air France/KLM),Airline,1:1,"1,000",Fast,Within 24 hrs,Check amex.com,All MR-earning cards,Yes,Yes,No,1.2–2.0¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,Iberia Plus Avios,Airline,1:1,"1,000",Standard,24–72 hrs,Check amex.com,All MR-earning cards,Yes,Yes,No,1.0–2.5¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,JetBlue TrueBlue,Airline,250:200,250,Fast,Within 24 hrs,Check amex.com,All MR-earning cards,Yes,Yes,No,0.8–1.2¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,Qantas Frequent Flyer,Airline,1:1,"1,000",Standard,24–48 hrs,Check amex.com,All MR-earning cards,Yes,Yes,No,1.2–2.0¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,Qatar Privilege Club Avios,Airline,1:1,"1,000",Standard,24–48 hrs,Check amex.com,All MR-earning cards,Yes,Yes,No,1.2–2.5¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,Singapore KrisFlyer,Airline,1:1,"1,000",Standard,24–48 hrs,Check amex.com,All MR-earning cards,Yes,Yes,No,1.5–3.0¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,Virgin Atlantic Flying Club,Airline,1:1,"1,000",Fast,Within 24 hrs,Check amex.com,All MR-earning cards,Yes,Yes,No,1.5–2.5¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,Hilton Honors,Hotel,1:2,"1,000",Fast,Within 24 hrs,Check amex.com,All MR-earning cards,Yes,Yes,No,0.4–0.6¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,Marriott Bonvoy,Hotel,1:1,"1,000",Standard,24–48 hrs,Check amex.com,All MR-earning cards,Yes,Yes,No,0.5–0.8¢,americanexpress.com/rewards/transfer
+AmEx Membership Rewards,MR Points,Choice Privileges,Hotel,1:1,"1,000",Standard,24–48 hrs,Check amex.com,All MR-earning cards,Yes,Yes,No,0.3–0.6¢,americanexpress.com/rewards/transfer
+Chase Ultimate Rewards,UR Points,United MileagePlus,Airline,1:1,"1,000",Instant,Instant,Check chase.com,"Sapphire, Ink, Freedom Unlimited (no direct)",Yes,Yes,No,1.2–2.5¢,chase.com/ultimate-rewards/transfer
+Chase Ultimate Rewards,UR Points,Southwest Rapid Rewards,Airline,1:1,"1,000",Instant,Instant,Check chase.com,"Sapphire, Ink, Freedom Unlimited (no direct)",Yes,Yes,No,1.4–1.8¢,chase.com/ultimate-rewards/transfer
+Chase Ultimate Rewards,UR Points,British Airways Avios,Airline,1:1,"1,000",Instant,Instant,Check chase.com,"Sapphire, Ink",Yes,Yes,No,1.0–1.8¢,chase.com/ultimate-rewards/transfer
+Chase Ultimate Rewards,UR Points,Air Canada Aeroplan,Airline,1:1,"1,000",Instant,Instant,Check chase.com,"Sapphire, Ink",Yes,Yes,No,1.5–2.5¢,chase.com/ultimate-rewards/transfer
+Chase Ultimate Rewards,UR Points,Flying Blue (Air France/KLM),Airline,1:1,"1,000",Instant,Instant,Check chase.com,"Sapphire, Ink",Yes,Yes,No,1.2–2.0¢,chase.com/ultimate-rewards/transfer
+Chase Ultimate Rewards,UR Points,Singapore KrisFlyer,Airline,1:1,"1,000",Instant,Instant,Check chase.com,"Sapphire, Ink",Yes,Yes,No,1.5–3.0¢,chase.com/ultimate-rewards/transfer
+Chase Ultimate Rewards,UR Points,Virgin Atlantic Flying Club,Airline,1:1,"1,000",Instant,Instant,Check chase.com,"Sapphire, Ink",Yes,Yes,No,1.5–2.5¢,chase.com/ultimate-rewards/transfer
+Chase Ultimate Rewards,UR Points,World of Hyatt,Hotel,1:1,"1,000",Instant,Instant,Check chase.com,"Sapphire, Ink",Yes,Yes,No,1.5–2.5¢,chase.com/ultimate-rewards/transfer
+Chase Ultimate Rewards,UR Points,IHG One Rewards,Hotel,1:1,"1,000",Instant,Instant,Check chase.com,"Sapphire, Ink",Yes,Yes,No,0.5–0.8¢,chase.com/ultimate-rewards/transfer
+Chase Ultimate Rewards,UR Points,Marriott Bonvoy,Hotel,1:1,"1,000",Instant,Instant,Check chase.com,"Sapphire, Ink",Yes,Yes,No,0.5–0.8¢,chase.com/ultimate-rewards/transfer
+Capital One Miles,Miles,Air Canada Aeroplan,Airline,1:1,"1,000",Fast,Within 24 hrs,Check capitalone.com,"Venture, Venture X",Yes,Yes,No,1.5–2.5¢,capitalone.com/learn-grow/venture-miles-transfer
+Capital One Miles,Miles,Turkish Airlines Miles&Smiles,Airline,1:1,"1,000",Standard,24–48 hrs,Check capitalone.com,"Venture, Venture X",Yes,Yes,No,2.0–4.0¢,capitalone.com/learn-grow/venture-miles-transfer
+Capital One Miles,Miles,Avianca LifeMiles,Airline,1:1,"1,000",Fast,Within 24 hrs,Check capitalone.com,"Venture, Venture X",Yes,Yes,No,1.5–3.0¢,capitalone.com/learn-grow/venture-miles-transfer
+Capital One Miles,Miles,Flying Blue (Air France/KLM),Airline,1:1,"1,000",Fast,Within 24 hrs,Check capitalone.com,"Venture, Venture X",Yes,Yes,No,1.2–2.0¢,capitalone.com/learn-grow/venture-miles-transfer
+Capital One Miles,Miles,British Airways Avios,Airline,1:1,"1,000",Fast,Within 24 hrs,Check capitalone.com,"Venture, Venture X",Yes,Yes,No,1.0–1.8¢,capitalone.com/learn-grow/venture-miles-transfer
+Capital One Miles,Miles,Singapore KrisFlyer,Airline,1:1,"1,000",Fast,Within 24 hrs,Check capitalone.com,"Venture, Venture X",Yes,Yes,No,1.5–3.0¢,capitalone.com/learn-grow/venture-miles-transfer
+Capital One Miles,Miles,Wyndham Rewards,Hotel,1:1,"1,000",Fast,Within 24 hrs,Check capitalone.com,"Venture, Venture X",Yes,Yes,No,0.5–1.0¢,capitalone.com/learn-grow/venture-miles-transfer
+Capital One Miles,Miles,Accor Live Limitless,Hotel,2:1,"2,000",Standard,24–48 hrs,Check capitalone.com,"Venture, Venture X",Yes,Yes,No,0.5–0.9¢,capitalone.com/learn-grow/venture-miles-transfer
+Citi ThankYou,TY Points,Air France/KLM Flying Blue,Airline,1:1,"1,000",Standard,24–48 hrs,Check citi.com,"Prestige, Premier",Yes,Yes,No,1.2–2.0¢,thankyou.com/partnerProgramsListing
+Citi ThankYou,TY Points,Turkish Airlines Miles&Smiles,Airline,1:1,"1,000",Standard,24–48 hrs,Check citi.com,"Prestige, Premier",Yes,Yes,No,2.0–4.0¢,thankyou.com/partnerProgramsListing
+Citi ThankYou,TY Points,Singapore KrisFlyer,Airline,1:1,"1,000",Standard,24–48 hrs,Check citi.com,"Prestige, Premier",Yes,Yes,No,1.5–3.0¢,thankyou.com/partnerProgramsListing
+Citi ThankYou,TY Points,Virgin Atlantic Flying Club,Airline,1:1,"1,000",Standard,24–48 hrs,Check citi.com,"Prestige, Premier",Yes,Yes,No,1.5–2.5¢,thankyou.com/partnerProgramsListing
+Citi ThankYou,TY Points,Avianca LifeMiles,Airline,1:1,"1,000",Standard,24–48 hrs,Check citi.com,"Prestige, Premier",Yes,Yes,No,1.5–3.0¢,thankyou.com/partnerProgramsListing
+Citi ThankYou,TY Points,Wyndham Rewards,Hotel,1:1,"1,000",Standard,24–48 hrs,Check citi.com,"Prestige, Premier",Yes,Yes,No,0.5–1.0¢,thankyou.com/partnerProgramsListing
+Bilt Rewards,Bilt Points,American Airlines AAdvantage,Airline,1:1,"1,000",Standard,24–72 hrs,Check biltrewards.com,Bilt Mastercard (pay rent),Yes,Yes,No,1.2–2.0¢,support.biltrewards.com/transfer-partners
+Bilt Rewards,Bilt Points,United MileagePlus,Airline,1:1,"1,000",Standard,24–72 hrs,Check biltrewards.com,Bilt Mastercard,Yes,Yes,No,1.2–2.5¢,support.biltrewards.com/transfer-partners
+Bilt Rewards,Bilt Points,Air Canada Aeroplan,Airline,1:1,"1,000",Standard,24–72 hrs,Check biltrewards.com,Bilt Mastercard,Yes,Yes,No,1.5–2.5¢,support.biltrewards.com/transfer-partners
+Bilt Rewards,Bilt Points,Flying Blue (Air France/KLM),Airline,1:1,"1,000",Standard,24–72 hrs,Check biltrewards.com,Bilt Mastercard,Yes,Yes,No,1.2–2.0¢,support.biltrewards.com/transfer-partners
+Bilt Rewards,Bilt Points,World of Hyatt,Hotel,1:1,"1,000",Standard,24–72 hrs,Check biltrewards.com,Bilt Mastercard,Yes,Yes,No,1.5–2.5¢,support.biltrewards.com/transfer-partners
+Bilt Rewards,Bilt Points,IHG One Rewards,Hotel,1:1,"1,000",Standard,24–72 hrs,Check biltrewards.com,Bilt Mastercard,Yes,Yes,No,0.5–0.8¢,support.biltrewards.com/transfer-partners
+Bilt Rewards,Bilt Points,Marriott Bonvoy,Hotel,1:1,"1,000",Standard,24–72 hrs,Check biltrewards.com,Bilt Mastercard,Yes,Yes,No,0.5–0.8¢,support.biltrewards.com/transfer-partners
+Wells Fargo Autograph,WF Points,Air France/KLM Flying Blue,Airline,1:1,"1,000",Standard,24–72 hrs,Check wellsfargo.com,"Autograph, Autograph Journey",Yes,Yes,No,1.2–2.0¢,wellsfargo.com/rewards
+Wells Fargo Autograph,WF Points,Air Canada Aeroplan,Airline,1:1,"1,000",Standard,24–72 hrs,Check wellsfargo.com,"Autograph, Autograph Journey",Yes,Yes,No,1.5–2.5¢,wellsfargo.com/rewards
+Wells Fargo Autograph,WF Points,British Airways Avios,Airline,1:1,"1,000",Standard,24–72 hrs,Check wellsfargo.com,"Autograph, Autograph Journey",Yes,Yes,No,1.0–1.8¢,wellsfargo.com/rewards
+Wells Fargo Autograph,WF Points,Virgin Atlantic Flying Club,Airline,1:1,"1,000",Standard,24–72 hrs,Check wellsfargo.com,"Autograph, Autograph Journey",Yes,Yes,No,1.5–2.5¢,wellsfargo.com/rewards
