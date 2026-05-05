@@ -1,0 +1,9 @@
+Date,Program,Change Type,Description,Impact,Action Required,Source,Status
+Mar 2026,All Programs,REMINDER,Always verify transfer ratios on official program pages before recommending a transfer,High,Verify each partner ratio quarterly,Official program sites,Ongoing
+Mar 2026,Bilt Rewards,Partnership Risk,Bilt's issuer relationship has had reported transitions. Monitor for partner changes.,High,Watch for announcements; alert users,biltrewards.com blog,Monitor
+Mar 2026,Citi ThankYou,Card Discontinuation,Citi Prestige no longer available to new applicants. Existing holders keep TY points.,Medium,Update card eligibility notes,citi.com,Updated
+Mar 2026,Discover Miles,No Transfer Partners,Discover it Miles has no airline/hotel transfer partners — optimize as cash-back only,Medium,Do not show transfer options for Discover,discover.com,Updated
+2025,AmEx MR,Rate Change,JetBlue ratio changed from 1:0.8 to 250:200 (effectively same). Verify current ratio.,Low,Verify on amex.com before recommending,americanexpress.com,Verify
+2025,Delta SkyMiles,Dynamic Pricing,Delta moved to fully dynamic award pricing. No fixed award chart. Value varies wildly.,High,Use real-time search only; no chart-based estimates,delta.com,Updated
+2024,Marriott Bonvoy,Devaluation,Bonvoy moved to dynamic pricing for most properties. Category charts less relevant.,High,Rely on live search for Bonvoy awards,marriott.com,Updated
+Template,[Program],[Devaluation/Addition/Removal/Ratio Change],[Description of what changed],[High/Med/Low],[What to update in the DB],[URL],[Pending/Updated/Monitor]
